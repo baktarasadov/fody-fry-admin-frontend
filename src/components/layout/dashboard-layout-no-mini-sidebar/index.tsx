@@ -2,8 +2,8 @@ import * as React from "react";
 import { AppProvider } from "@toolpad/core/AppProvider";
 import { DashboardLayout } from "@toolpad/core/DashboardLayout";
 import { useDemoRouter } from "@toolpad/core/internal";
-import { IDemoProps } from "./dashboard-layout-no-mini-sidebar.type";
-import { NAVIGATION } from "./dashboard-layout-no-mini-sidebar.constant";
+import { IDemoProps } from "./dashboard-layout-no-mini-sidebar-type";
+import { NAVIGATION } from "./dashboard-layout-no-mini-sidebar-constant";
 import { DemoPageContent } from "../../common";
 import { demoTheme } from "../../../theme/demo-theme";
 

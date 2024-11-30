@@ -1,7 +1,7 @@
 import DashboardIcon from "@mui/icons-material/Dashboard";
 import ShoppingCartIcon from "@mui/icons-material/ShoppingCart";
 import BarChartIcon from "@mui/icons-material/BarChart";
-import { NavigationItem } from "./dashboard-layout-no-mini-sidebar.type";
+import { NavigationItem } from "./dashboard-layout-no-mini-sidebar-type";
 
 export const NAVIGATION: NavigationItem[] = [
     {

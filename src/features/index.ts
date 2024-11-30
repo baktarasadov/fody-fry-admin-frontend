@@ -1,1 +1,3 @@
-export { DashBoardPage } from "./dashbord/dashbord.page";
+export { AuthPage } from "./auth";
+
+export { DashBoardPage } from "./dashbord";

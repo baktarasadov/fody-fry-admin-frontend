@@ -1,10 +1,14 @@
 import React from "react";
-import { DashBoardPage } from "./features";
+import { AuthPage } from "./features";
 
 const App = () => {
   return (
     <>
-      <DashBoardPage />
+      <div>
+        <AuthPage />
+        <h2>Hello</h2>
+      </div>
+      {/* <DashBoardPage /> */}
     </>
   );
 };
