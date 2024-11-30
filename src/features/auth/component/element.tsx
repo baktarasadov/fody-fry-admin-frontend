@@ -85,6 +85,9 @@ function LoginButton() {
       size="small"
       disableElevation
       fullWidth
+      onClick={() => {
+        console.log("Enter Password");
+      }}
       sx={{ my: 2 }}
     >
       Log In

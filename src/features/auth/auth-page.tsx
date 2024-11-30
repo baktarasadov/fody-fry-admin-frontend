@@ -1,9 +1,9 @@
-import AuthGeneral from "./auth-general";
+import AuthContainer from "./auth-container";
 
 export const AuthPage = () => {
   return (
     <>
-      <AuthGeneral />
+      <AuthContainer />
     </>
   );
 };
